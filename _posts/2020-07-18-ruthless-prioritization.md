@@ -4,7 +4,11 @@ date: 2020-07-18
 permalink: ruthless-prioritization
 ---
 
-A month and a half ago our product manager, Alisa, pulled the andon cord. “We aren’t going to ship this on time if we don’t change something.” She was right — the single most important thing we should be working on wasn’t getting the attention it needed. In our decentralized organization it can be challenging to remain focused. Folks need to contend with many signals and competing priorities.
+# Ruthless Prioritization
+
+July 18, 2020
+
+A month and a half ago our product manager, [Alisa](https://www.linkedin.com/in/alisa-haman-94a64176/), pulled the [andon cord](https://itrevolution.com/kata/). “We aren’t going to ship this on time if we don’t change something.” She was right — the single most important thing we should be working on wasn’t getting the attention it needed. In our decentralized organization it can be challenging to remain focused. Folks need to contend with many signals and competing priorities.
 
 Yet, we knew the team was capable of shipping this important feature. Alisa’s insight was that daily distractions were keeping us from our goal. We hypothesized that with hyper-focus and ruthless prioritization we could ship this feature on time.
 
@@ -22,9 +26,9 @@ We wanted folks to have the full context of why we needed a reset. We noted that
 
 We shared observations of things that were contributing to dragging down velocity. It was clear that the team was busy doing valuable things, but we were not making progress on our highest-priority initiative.
 
-> &bullet; Our team gets pulled into a bunch of small tasks unrelated to our one true priority.
-> &bullet; Some Jira tickets are BIG but don’t have to be. There were times when Product would have been fine with a smaller — but still valuable — solution.
-> &bullet; For the thing we are currently working on, we painted ourselves into a corner by being unable to release it incrementally. Mike takes full responsibility for this.
+> * Our team gets pulled into a bunch of small tasks unrelated to our one true priority.
+> * Some Jira tickets are BIG but don’t have to be. There were times when Product would have been fine with a smaller — but still valuable — solution.
+> * For the thing we are currently working on, we painted ourselves into a corner by being unable to release it incrementally. Mike takes full responsibility for this.
 
 ## The Road Ahead
 
@@ -42,12 +46,12 @@ This reset was a rallying cry around the priority, not an incrimination of anyon
 
 Our instincts told us that the most valuable thing we could do for the team was to create the space they needed to achieve deep focus and to be able to deliver incrementally. Alisa and I presented some ideas to seed a discussion.
 
-> &bullet; A TICKET ISN’T A SPEC. A DESIGN ISN’T A REQUIREMENT. Every time a ticket is picked up, talk it through with Product. Let’s figure out the minimum amount of work to deliver value.
-> &bullet; If a ticket looks like it’s going to take more than 0.5 days...talk to Product! See above...maybe we can simplify even more!
-> &bullet; Full team Zoom calls from 1pm-5pm everyday. There could be breakout rooms for anyone who is pairing. This would allow for continued conversations between team members and product.
-> &bullet; Leave distracting Slack channels. PLEASE ignore (better: leave!) channels where we get pulled into bugs/issues/functionality questions. Mike will monitor Slack and you’ll be @’d and rejoined if something’s more urgent/important than our one true priority.
-> &bullet; Push all extraneous work to Mike. If someone asks for help on something, tell them you are heads-down on something and refer them to Mike.
-> &bullet; Effectively immediately you are all relieved of your on-call duties; Mike will be the permanent on-call until we release 1.0.
+> * A TICKET ISN’T A SPEC. A DESIGN ISN’T A REQUIREMENT. Every time a ticket is picked up, talk it through with Product. Let’s figure out the minimum amount of work to deliver value.
+> * If a ticket looks like it’s going to take more than 0.5 days...talk to Product! See above...maybe we can simplify even more!
+> * Full team Zoom calls from 1pm-5pm everyday. There could be breakout rooms for anyone who is pairing. This would allow for continued conversations between team members and product.
+> * Leave distracting Slack channels. PLEASE ignore (better: leave!) channels where we get pulled into bugs/issues/functionality questions. Mike will monitor Slack and you’ll be @’d and rejoined if something’s more urgent/important than our one true priority.
+> * Push all extraneous work to Mike. If someone asks for help on something, tell them you are heads-down on something and refer them to Mike.
+> * Effectively immediately you are all relieved of your on-call duties; Mike will be the permanent on-call until we release 1.0.
 
 ## A Sense of Purpose
 
@@ -73,5 +77,7 @@ Well, first I should mention that a week into executing this new plan, one of th
 
 But here’s the thing. Not only did we hit it ... we crushed it! We landed 1.0 two weeks early. And then shipped version 2.0 in that same original 
 timeframe! Those 33 days were intense, but we didn’t work a single hour of overtime. As Lee Iacocca once said, “I hire people brighter than me and then I get out of their way.”
+
 ~~
+
 By the way — [we’re hiring!](https://drip.com/careers)
