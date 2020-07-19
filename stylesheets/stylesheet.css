@@ -14,7 +14,7 @@ preferred overrides
   text-decoration: none;
 }
 
-#footer_wrap p {
+.copyright {
   text-align: right;
 }
 
