@@ -118,10 +118,6 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }
 
-#project_title a {
-  text-decoration: none;
-}
-
 a:hover, a:focus {text-decoration: underline;}
 
 footer a {
@@ -426,4 +422,16 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+/**
+preferred overrides
+**/
+
+#project_title a {
+  text-decoration: none;
+}
+
+#footer_wrap p {
+  text-align: right;
 }
