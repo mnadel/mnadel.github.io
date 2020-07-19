@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Ruthless Prioritization
 date: 2020-07-18
 permalink: ruthless-prioritization
