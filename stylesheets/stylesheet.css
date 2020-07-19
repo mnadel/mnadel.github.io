@@ -5,6 +5,19 @@ by Jason Costello, @jsncostello
 
 @import url(github-light.css);
 
+
+/**
+preferred overrides
+**/
+
+#project_title a {
+  text-decoration: none;
+}
+
+#footer_wrap p {
+  text-align: right;
+}
+
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
@@ -422,16 +435,4 @@ Small Device Styles
     font-size: 11px;
   }
 
-}
-
-/**
-preferred overrides
-**/
-
-#project_title a {
-  text-decoration: none;
-}
-
-#footer_wrap p {
-  text-align: right;
 }
