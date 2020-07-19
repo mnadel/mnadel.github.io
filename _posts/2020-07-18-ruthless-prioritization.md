@@ -78,7 +78,3 @@ Given the circumstances, it would have been understandable had we missed the goa
 
 But here’s the thing. Not only did we hit it ... we crushed it! We landed 1.0 two weeks early. And then shipped version 2.0 in that same original 
 timeframe! Those 33 days were intense, but we didn’t work a single hour of overtime. As Lee Iacocca once said, “I hire people brighter than me and then I get out of their way.”
-
-~~
-
-By the way — [we’re hiring!](https://drip.com/careers)
