@@ -2,6 +2,7 @@
 title: Ruthless Prioritization
 date: 2020-07-18
 permalink: ruthless-prioritization
+description: A story about saving a project through hyper focus and ruthless prioritization.
 ---
 
 # Ruthless Prioritization
@@ -12,9 +13,7 @@ A month and a half ago our product manager, [Alisa](https://www.linkedin.com/in/
 
 Yet, we knew the team was capable of shipping this important feature. Alisa’s insight was that daily distractions were keeping us from our goal. We hypothesized that with hyper-focus and ruthless prioritization we could ship this feature on time.
 
-That evening Alisa drafted a plan. What were our distractions? How can we create the space needed for folks to focus on our one true priority? 
-
-The next day Alisa and I got the team together for a reset.
+That evening Alisa drafted a plan. What were our distractions? How can we create the space needed for folks to focus on our one true priority? We collaborated on a document that we'd present to the team. The next day we got the team together for a reset.
 
 What follows is the agenda from that meeting, along with some fresh commentary. The indented quotes are taken nearly verbatim from the document we discussed with the team.
 
@@ -73,7 +72,7 @@ Ruthlessly prioritizing and remaining hyper-focused isn’t easy. Drip’s cultu
 
 So? Where did we land?
 
-Well, first I should mention that a week into executing this new plan, one of the developers on the team took a month off for paternity leave. The team has only four developers, so we were down to 75% capacity. Additionally, this reset occurred a couple of weeks before Memorial Day, which meant more than half a week of one person’s time (24 developer*hours) lost to the holiday. Given the circumstances, it would have been understandable if we missed the goal. In fact, in many organizations, it’d have been a miracle if we hit the goal.
+Well, first I should mention that a week into executing this new plan, one of the developers on the team took a month off for paternity leave. The team has only four developers, so we were down to 75% capacity. Additionally, this reset occurred a couple of weeks before Memorial Day, which meant we lost more than half a week of one person’s time (24 developer*hours) to the holiday. Given the circumstances, it would have been understandable if we missed the goal. In fact, in many organizations, it’d have been a miracle if we hit the goal.
 
 But here’s the thing. Not only did we hit it ... we crushed it! We landed 1.0 two weeks early. And then shipped version 2.0 in that same original 
 timeframe! Those 33 days were intense, but we didn’t work a single hour of overtime. As Lee Iacocca once said, “I hire people brighter than me and then I get out of their way.”
