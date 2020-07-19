@@ -74,7 +74,7 @@ So? Where did we land?
 
 Well, a week into executing this new plan, one of the developers on the team took a month off for paternity leave. The team has only four developers, so we were down to 75% capacity. Additionally, this reset occurred a few weeks before Memorial Day. We all had the day off, which meant another week operating below our ideal capacity.
 
-Given the circumstances, it would have been understandable had we missed the goal. In fact, in many organizations, it’d have been a miracle if we hit the goal.
+Given the circumstances, it would have been understandable if we missed the goal. In fact, in many organizations, it’d have been a miracle to have hit it.
 
 But here’s the thing. Not only did we hit it ... we crushed it! We landed 1.0 two weeks early. And then shipped version 2.0 in that same original 
 timeframe! Those 33 days were intense, but we didn’t work a single hour of overtime. As Lee Iacocca once said, “I hire people brighter than me and then I get out of their way.”
