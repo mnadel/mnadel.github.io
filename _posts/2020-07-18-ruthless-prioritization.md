@@ -2,7 +2,7 @@
 title: Ruthless Prioritization
 date: 2020-07-18
 permalink: /post/ruthless-prioritization
-description: A story about saving a project through hyper focus and ruthless prioritization.
+description: This is a story of what “Hire good people and get out of their way” can look like in practice.
 layout: default
 redirect_from:
   - /ruthless-prioritization
@@ -22,7 +22,7 @@ What follows is the agenda from that meeting, along with some fresh commentary. 
 
 ## The Situation
 
-We wanted folks to have the full context of why we needed a reset. We noted that what we were currently working on was important...but not the most important. We discussed the risk to our business if we were unable to ship this particular new feature by July 1.
+We wanted folks to have the full context of why we needed a reset. We noted that what we were currently working on was important…but not the most important. We discussed the risk to our business if we were unable to ship this particular new feature by July 1.
 
 ## Challenges
 
@@ -49,7 +49,7 @@ This reset was a rallying cry around the priority, not an incrimination of anyon
 Our instincts told us that the most valuable thing we could do for the team was to create the space they needed to achieve deep focus and to be able to deliver incrementally. Alisa and I presented some ideas to seed a discussion.
 
 > * A TICKET ISN’T A SPEC. A DESIGN ISN’T A REQUIREMENT. Every time a ticket is picked up, talk it through with Product. Let’s figure out the minimum amount of work to deliver value.
-> * If a ticket looks like it’s going to take more than 0.5 days...talk to Product! See above...maybe we can simplify even more!
+> * If a ticket looks like it’s going to take more than 0.5 days…talk to Product! See above…maybe we can simplify even more!
 > * Full team Zoom calls from 1pm-5pm everyday. There could be breakout rooms for anyone who is pairing. This would allow for continued conversations between team members and product.
 > * Leave distracting Slack channels. PLEASE ignore (better: leave!) channels where we get pulled into bugs/issues/functionality questions. Mike will monitor Slack and you’ll be @’d and rejoined if something’s more urgent/important than our one true priority.
 > * Push all extraneous work to Mike. If someone asks for help on something, tell them you are heads-down on something and refer them to Mike.
@@ -79,5 +79,5 @@ Well, a week into executing this new plan, one of the developers on the team too
 
 Given the circumstances, it would have been understandable if we missed the goal. In fact, in many organizations, it’d have been a miracle to hit it.
 
-But here’s the thing. Not only did we hit it ... we crushed it! We landed 1.0 two weeks early. And then shipped version 2.0 in that same original 
+But here’s the thing. Not only did we hit it … we crushed it! We landed 1.0 two weeks early. And then shipped version 2.0 in that same original 
 timeframe! Those 33 days were intense, but we didn’t work a single hour of overtime. As Lee Iacocca once said, “I hire people brighter than me and then I get out of their way.”
