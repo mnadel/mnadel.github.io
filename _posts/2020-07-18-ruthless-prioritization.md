@@ -1,9 +1,11 @@
 ---
 title: Ruthless Prioritization
 date: 2020-07-18
-permalink: ruthless-prioritization
+permalink: /post/ruthless-prioritization
 description: A story about saving a project through hyper focus and ruthless prioritization.
 layout: default
+redirect_from:
+  - /ruthless-prioritization
 ---
 
 # Ruthless Prioritization

@@ -11,3 +11,4 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-mentions
   - jekyll-feed
+  - jekyll-redirect-from
