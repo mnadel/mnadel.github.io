@@ -2,7 +2,7 @@
 title: Ruthless Prioritization
 date: 2020-07-18
 permalink: /post/ruthless-prioritization
-description: A story of what “Hire good people and get out of their way” can look like in practice.
+description: A story about hiring good people and getting out of their way.
 layout: default
 redirect_from:
   - /ruthless-prioritization
