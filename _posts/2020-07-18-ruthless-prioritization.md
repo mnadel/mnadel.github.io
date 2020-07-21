@@ -12,7 +12,7 @@ redirect_from:
 
 July 18, 2020
 
-A month and a half ago our product manager, Alisa, pulled the [andon cord](https://itrevolution.com/kata/). “We aren’t going to ship this on time if we don’t change something.” She was right — the single most important thing we should be working on wasn’t getting the attention it needed. In our decentralized organization it can be challenging to remain focused. Folks need to contend with many signals and competing priorities.
+A month and a half ago our product manager, [Alisa](https://www.linkedin.com/in/alisa-haman-94a64176/), pulled the [andon cord](https://itrevolution.com/kata/). “We aren’t going to ship this on time if we don’t change something.” She was right — the single most important thing we should be working on wasn’t getting the attention it needed. In our decentralized organization it can be challenging to remain focused. Folks need to contend with many signals and competing priorities.
 
 Yet, we knew the team was capable of shipping this important feature. Alisa’s insight was that daily distractions were keeping us from our goal. We hypothesized that with hyper-focus and ruthless prioritization we could ship this feature on time.
 
