@@ -59,7 +59,7 @@ Our instincts told us that the most valuable thing we could do for the team was 
 
 > To illustrate how important this feature is: not even site outages should distract us from working on the one most important thing we need to be working on: this feature.
 
-We needed folks to be vigilant about things that could distract us from our priority. The goal wasn’t to create a sense of urgency, but rather foster a sense of purpose. Ruthless prioritization is hard work. Urgency might let you sprint, but great teams run marathons together.
+We needed folks to be vigilant about things that could distract us from our priority. The goal, to quote [Kimber Lockhart](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0), wasn’t to create a sense of urgency, but rather foster a sense of purpose. Ruthless prioritization is hard work. Urgency might let you sprint, but great teams run marathons together.
 
 It’s worth noting that Drip takes uptime (and site operations, more generally) very seriously. We have five on-calls at all times: four engineers and a senior/executive-level engineering leader. This statement was communicating to the team that should something as critical as a site outage occur, the rest of the engineering team has got their back.
 
