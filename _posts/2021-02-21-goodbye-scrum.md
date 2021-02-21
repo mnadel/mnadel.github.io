@@ -62,7 +62,7 @@ Now, for the hard part. For this to work, there's a few things that we need to b
 1. Everything we're working on must be represented in Jira. We're not doing Kanban if we're not using WIP limits, and WIP limits are irrelevant if we're doing stuff that's not tracked in Jira.
 2. Tasks in Jira need to be small (2-3 days max for starters). Large tasks prevent us from visualizing the progression of work, which will lead to a feeling of projects being stalled.
 
-Initially we'll take a MITA (Mike Is The Asshole) approach to ensuring the above happens. Please feel free to blame me for any discomfort or awkwardness. e.g. "Sorry, Mike is an asshole and is making me pair w/ you" or "Ugh I wish I could start that task, but Mike is being an asshole." and also "Mike's an asshole and we need to break this down before we continue working on it." But believe it or not, I do find it exhausting to be an asshole. So, I'd like everyone to take part in ensuring we're being disciplined about how we implement Kanban.
+Initially we'll take a MITA (Mike Is The Asshole) approach to ensuring the above happens. Please feel free to blame me for any discomfort or awkwardness. e.g. "Sorry, Mike is an asshole and is making me pair w/ you" or "Ugh I wish I could start that task, but Mike is being an asshole" and also "Mike's an asshole and we need to break this down before we continue working on it." But believe it or not, I do find it exhausting to be an asshole. So, I'd like everyone to take part in ensuring we're being disciplined about how we implement Kanban.
 
 ## References
 
@@ -71,9 +71,9 @@ Initially we'll take a MITA (Mike Is The Asshole) approach to ensuring the above
 
 # Reflection
 
-Kanban is working quite well for us. A few folks independently mentioned that they feel engaged and that the team is super productive. And indeed, we're shipping consequential changes every one to two weeks. Projects haven't felt stalled in quite some time. I beleive this is largely due to two things:
+Kanban is currently working quite well for us. A couple of folks have recently, and independently, mentioned that they feel engaged and that the team is super productive. And indeed, we're shipping consequential changes every one to two weeks. Projects haven't felt stalled in quite some time. I beleive this is largely due to two things:
 
 1. Optimizing for finishing work as a team rather than individuals being busy (i.e. one of our stated goals in moving to Kanban)
-2. A focus on incrementally delivering product (a different, but related, thread we've been tugging on as a Product Engineering organization)
+2. A focus on incrementally delivering product (a different, but related, thread we've been tugging on as a Product Engineering organization &mdash; a likely post for a different day)
 
 Upon reflecting on where we're at, I'm now realizing we're still not pairing and mobbing as frequently as we should. To be fair, we've yet to tweak our WIP limits (though we're doing a pretty decent job adhering to them!). Looks like I've got a topic for our next retro!
