@@ -12,11 +12,11 @@ redirect_from:
 
 February 21, 2021
 
-Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be pedantic, it was closer to elements of [XP](http://www.agile-process.org/) with more-familiar Scrum terminology. Our (only) ceremonies were daily Standups (dev + product + design) and weekly Sprints and Demos. We didn't carry a Backlog, so ceremonies surrouding that were unnecessary.
+Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be pedantic, it was closer to elements of [XP](http://www.agile-process.org/) with more-familiar Scrum terminology. Our (only) ceremonies were daily Standups (dev + product + design) and weekly Sprints and Demos. We didn't carry a Backlog, so ceremonies surrounding that were unnecessary.
 
 Things were going alright, but at Drip we stress a culture of [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; one of continuous improvement. I was therefore compelled to ask "How can we do even better?" Valuing Lean and agility over dogmatic adherence to any particular Agile implementation, I saw an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by tweaking our process.
 
-What follows is a document I used back in March of 2020 outlining the issue and proposing an solution to address it. The at the end is a recent relection on how Kanban is working for us.
+What follows is a document I used back in March of 2020 outlining the issue and proposing an solution to address it. The at the end is a recent reflection on how Kanban is working for us.
 
 ## Background
 
@@ -71,7 +71,7 @@ Initially we'll take a MITA (Mike Is The Asshole) approach to ensuring the above
 
 # Reflection
 
-Kanban is currently working quite well for us. A couple of folks have recently, and independently, mentioned that they feel engaged and that the team is super productive. And indeed, we're shipping consequential changes every one to two weeks. Projects haven't felt stalled in quite some time. I beleive this is largely due to two things:
+Kanban is currently working quite well for us. A couple of folks have recently, and independently, mentioned that they feel engaged and that the team is super productive. And indeed, we're shipping consequential changes every one to two weeks. Projects haven't felt stalled in quite some time. I believe this is largely due to two things:
 
 1. Optimizing for finishing work as a team rather than individuals being busy (i.e. one of our stated goals in moving to Kanban)
 2. A focus on incrementally delivering product (a different, but related, thread we've been tugging on as a Product Engineering organization &mdash; a likely post for a different day)
