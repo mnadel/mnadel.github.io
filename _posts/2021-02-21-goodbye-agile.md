@@ -14,13 +14,13 @@ February 21, 2021
 
 Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be pedantic, it was closer to elements of [XP](http://www.agile-process.org/) repackaged with more-familiar Scrum terminology. Our (only) ceremonies were daily Standups (dev + product + design) and weekly Sprints and Demos. We didn't carry a Backlog, which eliminated much of the activities prescribed by Scrum.
 
-Things were going alright, but at Drip we stress a culture of [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; one of continuous improvement. Valuing Lean and agility over dogmatic adherence to any particular Agile implementation, I saw an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by changing our process.
+Things were going alright, but at Drip we stress a culture of [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; one of continuous improvement. Valuing [lean practices](https://en.wikipedia.org/wiki/Lean_software_development#Lean_software_practices) and agility over dogmatic adherence to any particular Agile implementation, I saw an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by changing our process.
 
-What follows is a document I used back in March of 2020 outlining the issue and proposing an solution to address it. The at the end is a recent reflection on how Kanban is working for us.
+What follows is a document I used back in March of 2020 outlining the issue and proposing an solution to address it. The _Reflection_ section following that is a recent reflection on whether Kanban addressed the issues we were hoping to.
 
 ## Background
 
-I am encouraged by how we are progressing! Looking past the horizon, however, I don't think we've solved the fundamental problem that I've heard expressed by the team in various ways, including in our most recent retrospective: projects, at some point, have a tendency to feel like they are stalling.
+I am encouraged by our velocity! Looking past the horizon, however, I don't think we've solved the fundamental problem that I've heard expressed by the team in various ways, including in our most recent retrospective: projects, at some point, have a tendency to feel like they are stalling.
 
 Additionally, I know that we enjoyed mobbing. It was invigorating and engaging, and, importantly, it helps minimize knowledge silos. Everyone seemed energized by the proposal that as our tasks wind down, we ramp up mobbing. However, mobbing has largely dropped by the wayside, and I don't think anything besides overcoming inertia has prevented us from mobbing more.
 
