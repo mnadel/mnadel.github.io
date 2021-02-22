@@ -39,7 +39,7 @@ Making the work visible, I believe, will help address the first issue of project
 
 Kanban is more than just an improved visualization system, though. Kanban isn't Kanban without WIP limits. WIP limits mean we will intentionally limit starting new tasks until (enough) current tasks are completed. This swings the pendulum from optimizing for utilization (where everyone has "something to do" and isn't sitting idle or looking for work) to a focus on completing work. This clearly addresses the stalled-project problem we're trying to solve by focusing efforts on completing work, thereby contributing to forward progress and momentum. Another virtuous cycle!
 
-WIP limits have the added benefit of codifying a social contract around when we pair and mob. By playing with the WIP limits, we can tweak how frequently we mob. If, for example, we can only have three tasks in progress at any given time, then by definition some of us will be mobbing (or all of us will be pairing). It changes the conversation from an open-ended ad hoc plea of "I'm doing X, feel free to pair/mob with me!" to a more specific "I cannot pick up a new ticket, so I'm going to mob with you."
+WIP limits have the added benefit of codifying a social contract around when we pair and mob. By playing with the WIP limits, we can tweak how frequently we mob. If, for example, we can only have three tasks in progress at any given time, then by definition some of us will be mobbing (or all of us will be pairing). It changes the conversation from an open-ended adhoc plea of "I'm doing X, feel free to pair/mob with me!" to a more specific "I cannot pick up a new ticket, so I'm going to mob with you."
 
 ## Our Own Flavor of Kanban
 
