@@ -16,7 +16,7 @@ Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be
 
 Things were going alright, but at Drip we stress a culture of [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; one of continuous improvement. Valuing [lean practices](https://en.wikipedia.org/wiki/Lean_software_development#Lean_software_practices) and agility over dogmatic adherence to any particular Agile implementation, I saw an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by changing our process.
 
-What follows is a document I used back in March of 2020 outlining the issue and proposing an solution to address it. The _Reflection_ section following that is a recent reflection on whether Kanban addressed the issues we were hoping to.
+What follows is a document I used back in March of 2020 outlining the issue and proposing a solution to address it. The _Reflection_ section following that is a recent reflection on whether Kanban addressed the issues we were hoping to.
 
 ## Background
 
