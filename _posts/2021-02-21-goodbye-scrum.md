@@ -43,7 +43,7 @@ WIP limits have the added benefit of codifying a social contract around when we 
 
 ## Our Own Flavor of Kanban
 
-What this means for us is that we need to better visualize our work and institute WIP limits. Better visualization will take the form of additional columns in Jira. To start with, I'm proposing the following: IDEA → SPECIFY → TODO → DEV → VERIFY → DONE. These states are meant to get us started with something useful, and I fully expect (indeed: insist) to tweak and adjust as we learn more. To see what this looks like, check out [this test] project in Jira. I'll be migrating us to this Classic project, as it has some important features that are missing in Next-Gen projects (namely, indication of how long a task is in a column).
+What this means for us is that we need to better visualize our work and institute WIP limits. Better visualization will take the form of additional columns in Jira. To start with, I'm proposing the following: IDEA &rarr; SPECIFY &rarr; TODO &rarr; DEV &rarr; VERIFY &rarr; DONE. These states are meant to get us started with something useful, and I fully expect (indeed: insist) to tweak and adjust as we learn more. To see what this looks like, check out [this test] project in Jira. I'll be migrating us to this Classic project, as it has some important features that are missing in Next-Gen projects (namely, indication of how long a task is in a column).
 
 The IDEA will contain items that are SWAGged, i.e. they'll contain just enough information that we were able to come up with a SWAG. This helps us have ROI conversations that inform the priority of these items.
 
@@ -62,7 +62,7 @@ Now, for the hard part. For this to work, there's a few things that we need to b
 1. Everything we're working on must be represented in Jira. We're not doing Kanban if we're not using WIP limits, and WIP limits are irrelevant if we're doing stuff that's not tracked in Jira.
 2. Tasks in Jira need to be small (2-3 days max for starters). Large tasks prevent us from visualizing the progression of work, which will lead to a feeling of projects being stalled.
 
-Initially we'll take a MITA (Mike Is The Asshole) approach to ensuring the above happens. Please feel free to blame me for any discomfort or awkwardness. e.g. "Sorry, Mike is an asshole and is making me pair w/ you" or "Ugh I wish I could start that task, but Mike is being an asshole" and also "Mike's an asshole and we need to break this down before we continue working on it." But believe it or not, I do find it exhausting to be an asshole. So, I'd like everyone to take part in ensuring we're being disciplined about how we implement Kanban.
+Initially we'll take a MITA (Mike Is The Asshole) approach to ensuring the above happens. Please feel free to blame me for any discomfort or awkwardness. e.g. "Sorry, Mike is an asshole and is making me pair with you" or "Ugh I wish I could start that task, but Mike is being an asshole" and also "Mike's an asshole and we need to break this down before we continue working on it." But believe it or not, I do find it exhausting to be an asshole. So, eventually I'd like everyone to take part in ensuring we're being disciplined in how we implement Kanban.
 
 ## References
 
