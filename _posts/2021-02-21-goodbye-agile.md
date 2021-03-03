@@ -14,7 +14,7 @@ February 21, 2021
 
 Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be pedantic, it was closer to elements of [XP](http://www.agile-process.org/) repackaged with more-familiar Scrum terminology. Our (only) ceremonies were daily Standups (dev + product + design) and weekly Sprints and Demos. We didn't carry a Backlog, which eliminated much of the activities prescribed by Scrum.
 
-Things were going alright, but at Drip we stress a culture of [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; one of continuous improvement. Valuing [lean practices](https://en.wikipedia.org/wiki/Lean_software_development) and agility over dogmatic adherence to any particular Agile implementation, I saw an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by changing our process.
+Things were going alright, but at Drip we stress a culture of [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; one of continuous improvement. Valuing [lean practices](https://en.wikipedia.org/wiki/Lean_software_development) and agility over dogmatic adherence to any particular Agile implementation, we had an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by changing our process.
 
 What follows is an internal document I used back in March of 2020 outlining the issue and proposing a solution to address it. The _Reflection_ section following that is a recent reflection on whether Kanban helped address the issues we were seeing.
 
@@ -22,7 +22,7 @@ What follows is an internal document I used back in March of 2020 outlining the 
 
 I am encouraged by our velocity! Looking past the horizon, however, I don't think we've solved the fundamental problem that I've heard expressed by the team in various ways, including in our most recent retrospective: projects, at some point, have a tendency to feel like they're stalling.
 
-Additionally, I know that we enjoyed mobbing. It was invigorating and engaging, and, importantly, it helps minimize knowledge silos. Everyone seemed energized by the proposal that as our tasks wind down, we ramp up mobbing. However, mobbing has largely dropped by the wayside, and I don't think anything besides overcoming inertia has prevented us from mobbing more.
+Additionally, I know that we had some success with mobbing. It was invigorating and engaging, and, importantly, it helps minimize knowledge silos. Everyone seemed energized by Eric's proposal that as our tasks wind down, we ramp up mobbing. However, mobbing has largely dropped by the wayside. I beleive that overcoming inertia is the only thing preventing us from mobbing more.
 
 One of our company's strategic priorities is "Unleash our people." And I would not be doing my job if I weren't constantly thinking about how to help you all be your best (professional) selves. Long story short, based on conversations I've had with [my peer] [Stephanie](https://www.linkedin.com/in/stephanie-simons-she-her-92444ab2/), who has a bunch of experience in using Kanban with her teams, I see it as a potential pathway to addressing these two issues.
 
