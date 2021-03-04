@@ -14,7 +14,7 @@ February 21, 2021
 
 Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be pedantic, it was closer to elements of [XP](http://www.agile-process.org/) repackaged with more-familiar Scrum terminology. Our (only) ceremonies were daily Standups (dev + product + design) and weekly Sprints and Demos. We didn't carry a Backlog, which eliminated much of the activities prescribed by Scrum.
 
-Things were going alright, but at Drip we stress a culture of [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; one of continuous improvement. Valuing [lean practices](https://en.wikipedia.org/wiki/Lean_software_development) and agility over dogmatic adherence to any particular Agile implementation, we had an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by changing our process.
+Things were going alright, but at Drip we value [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; continuous improvement. Valuing [lean practices](https://en.wikipedia.org/wiki/Lean_software_development) and agility over dogmatic adherence to any particular Agile implementation, we had an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by changing our process.
 
 What follows is an internal document I shared with the team back in March of 2020. It outlines the opportunity and proposes a solution. The _Reflection_ section following that is a recent reflection on whether Kanban helped address the issues we were seeing.
 
@@ -74,6 +74,10 @@ Initially we'll take a MITA (Mike Is The Asshole) approach to ensuring the above
 Kanban is currently working quite well for us. A couple of folks have recently, and independently, mentioned that they feel engaged and that the team is super productive. And indeed, we're shipping consequential changes every one to two weeks. Projects haven't felt stalled in quite some time. I believe this is largely due to two things:
 
 1. Optimizing for finishing work as a team rather than individuals being busy (i.e. one of our stated goals in moving to Kanban)
-2. A focus on incrementally delivering product (a different, but related, thread we've been tugging on as a Product Engineering organization &mdash; a likely post for a different day)
+2. A focus on incrementally delivering product
 
 Upon reflecting on where we're at, I'm now realizing we're still not pairing and mobbing as frequently as we should. To be fair, we've yet to tweak our WIP limits (though we're doing a pretty decent job adhering to them!). Looks like I've got a topic for our next retro!
+
+## Parting Thought
+
+Despite the title of this post, it's important to note that Kanban, itself, isn't the source of our agility. The fact that we were able to quickly eschew a process that wasn't working great for us and try something new is a testament to the people and culture of Drip. We hire folks who are smart, ambitious, growth-oriented, and humble. The result is a bold but empathetic culture where no cow is held sacred and where not failing means you aren't stretching yourself enough.
