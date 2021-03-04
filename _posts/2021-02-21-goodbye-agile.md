@@ -22,7 +22,7 @@ What follows is an internal document I shared with the team back in March of 202
 
 I am encouraged by our velocity! Looking past the horizon, however, I don't think we've solved the fundamental problem that I've heard expressed by the team in various ways, including in our most recent retrospective: projects, at some point, have a tendency to feel like they're stalling.
 
-Additionally, I know that we had some success with mobbing. It was invigorating and engaging, and, importantly, it helps minimize knowledge silos. Everyone seemed energized by the proposal that as our tasks wind down, we ramp up mobbing. However, mobbing has largely dropped by the wayside. I beleive that overcoming inertia is the only thing preventing us from mobbing more.
+Additionally, I know that we had some success with mobbing. It was invigorating and engaging, and, importantly, it helps minimize knowledge silos. Everyone seemed energized by the proposal that as our tasks wind down, we ramp up mobbing. However, mobbing has largely dropped by the wayside. I believe that overcoming inertia is the only thing preventing us from mobbing more.
 
 One of our company's strategic priorities is "Unleash our people." And I would not be doing my job if I weren't constantly thinking about how to help you all be your best (professional) selves. Long story short, based on conversations I've had with [my peer] [Stephanie](https://www.linkedin.com/in/stephanie-simons-she-her-92444ab2/), who has a bunch of experience in using Kanban with her teams, I see it as a potential pathway to addressing these two issues.
 
