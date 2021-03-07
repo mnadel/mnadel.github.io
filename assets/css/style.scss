@@ -2,8 +2,9 @@
 ---
 
 $font-family: 'PT Serif', Palatino, Georgia, Times, serif;
-$font-size: 16px;
+$font-size: 18px;
 $body-margin: 15px;
+$title-spacing: -2px;
 
 body {
   font-family: $font-family;
@@ -28,7 +29,7 @@ blockquote p {
 }
 
 #title {
-  letter-spacing: -1px;
+  letter-spacing: $title-spacing;
 
   a {
     text-decoration: none;
@@ -36,7 +37,7 @@ blockquote p {
 }
 
 #tagline {
-  letter-spacing: -1px;
+  letter-spacing: $title-spacing;
 }
 
 #postfoot {
