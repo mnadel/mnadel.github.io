@@ -1,16 +1,12 @@
 ---
 title: Goodbye Agile, Hello Agility
-date: 2021-02-21
-permalink: /post/goodbye-agile-hello-agility
 description: A story about why (and a little bit of how) we adopted Kanban.
-layout: default
+date: 2021-02-21
+layout: post
+permalink: /post/goodbye-agile-hello-agility
 redirect_from:
   - /goodbye-agile-hello-agility
 ---
-
-# Goodbye Agile, Hello Agility
-
-February 21, 2021
 
 Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be pedantic, it was closer to elements of [XP](http://www.agile-process.org/) repackaged with more-familiar Scrum terminology. Our (only) ceremonies were daily Standups (dev + product + design) and weekly Sprints and Demos. We didn't carry a Backlog, which eliminated much of the activities prescribed by Scrum.
 

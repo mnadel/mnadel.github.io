@@ -1,16 +1,12 @@
 ---
 title: Ruthless Prioritization
-date: 2020-07-18
-permalink: /post/ruthless-prioritization
 description: A story about hiring good people and getting out of their way.
-layout: default
+date: 2020-07-18
+layout: post
+permalink: /post/ruthless-prioritization
 redirect_from:
   - /ruthless-prioritization
 ---
-
-# Ruthless Prioritization
-
-July 18, 2020
 
 A month and a half ago our product manager, [Alisa](https://www.linkedin.com/in/alisa-haman-94a64176/), pulled the [andon cord](https://itrevolution.com/kata/). “We aren’t going to ship this on time if we don’t change something.” She was right — the single most important thing we should be working on wasn’t getting the attention it needed. In our decentralized organization it can be challenging to remain focused. Folks need to contend with many signals and competing priorities.
 

@@ -1,0 +1,1 @@
+<p class="copyright">&copy; <a href="{{ site.about_url }}">Michael Nadel, {{ site.time | date: "%Y"}}</a></p>

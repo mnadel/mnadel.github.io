@@ -3,15 +3,17 @@
 
 @import "jekyll-theme-slate";
 
+$font-family: 'PT Serif', Palatino, Georgia, Times, serif;
+
 body {
-  font-family: Palatino, Georgia, Times, serif;
+  font-family: $font-family;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Palatino, Georgia, Times, serif;
+  font-family: $font-family;
 }
 
-#project_title {
+#title {
   letter-spacing: -1px;
 
   a {
@@ -19,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-#project_tagline {
+#tagl {
   letter-spacing: 0px;
 }
 
