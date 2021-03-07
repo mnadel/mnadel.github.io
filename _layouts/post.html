@@ -5,22 +5,24 @@
   </head>
 
   <body>
-    <div id="header_wrap" class="outer">
-      {% include header.include %}
-    </div>
+    <div class="container">
+      <div>
+        {% include header.include %}
+      </div>
 
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>{{ page.title }}</h1>
-        <p>{{ page.date | date_to_string: "ordinal", "US" }}</p>
-        <p>{{ content }}</p>
-      </section>
-    </div>
+      <div>
+        <section>
+          <h1>{{ page.title }}</h1>
+          <p>{{ page.date | date_to_string: "ordinal", "US" }}</p>
+          <p>{{ content }}</p>
+        </section>
+      </div>
 
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% include footer.include %}
-      </footer>
+      <div>
+        <footer>
+          <div id="postfoot">{% include footer.include %}</div>
+        </footer>
+      </div>
     </div>
   </body>
 </html>

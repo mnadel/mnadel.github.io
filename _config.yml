@@ -1,12 +1,11 @@
 title: Product Engineering Management
-description: Musings at the intersection of product engineering & engineering management.
+description: Musings at the intersection of product engineering & engineering management
 author: mnadel
 url: "https://blog.nadel.org"
 about_url: "https://www.linkedin.com/in/nadel/"
 markdown: kramdown
 google_analytics: UA-172988644-1
 show_downloads: false
-theme: jekyll-theme-slate
 
 plugins:
   - jekyll-mentions

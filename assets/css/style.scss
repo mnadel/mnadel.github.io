@@ -1,19 +1,28 @@
 ---
 ---
 
-@import "jekyll-theme-slate";
-
 $font-family: 'PT Serif', Palatino, Georgia, Times, serif;
+$font-size: 16px;
 
 body {
   font-family: $font-family;
+  font-size: $font-size;
+  background-color: #f8ede3;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family;
 }
 
-#project_title {
+blockquote {
+  border-left: 2px solid #c0c0c0;
+}
+
+blockquote p {
+  margin-left: 15px;
+}
+
+#title {
   letter-spacing: -1px;
 
   a {
@@ -21,13 +30,15 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-#project_tagline {
-  letter-spacing: 0px;
+#tagline {
+  letter-spacing: -1px;
+}
+
+#postfoot {
+  text-align: right;
 }
 
 .copyright {
-  text-align: right;
-
   a {
     text-decoration: none;
   }
