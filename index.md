@@ -1,5 +1,5 @@
 ---
-title: Product Engineering Mangement
+title: Product Engineering Management
 layout: default
 ---
 

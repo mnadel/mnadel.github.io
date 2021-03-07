@@ -12,3 +12,7 @@ plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-avatar
