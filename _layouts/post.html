@@ -6,11 +6,11 @@
 
   <body>
     <div class="container">
-      <div>
+      <div id="header" class="row">
         {% include header.include %}
       </div>
 
-      <div>
+      <div class="row">
         <section>
           <h1>{{ page.title }}</h1>
           <p>{{ page.date | date_to_string: "ordinal", "US" }}</p>
@@ -18,11 +18,12 @@
         </section>
       </div>
 
-      <div>
+      <div class="row">
         <footer>
-          <div id="postfoot">{% include footer.include %}</div>
+          <div id="postfoot">{% include copy.include %}</div>
         </footer>
       </div>
     </div>
+    {% include footer.include %}
   </body>
 </html>

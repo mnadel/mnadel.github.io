@@ -3,6 +3,7 @@
 
 $font-family: 'PT Serif', Palatino, Georgia, Times, serif;
 $font-size: 16px;
+$body-margin: 15px;
 
 body {
   font-family: $font-family;
@@ -12,6 +13,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family;
+}
+
+#header {
+  margin-bottom: $body-margin;
 }
 
 blockquote {
@@ -39,6 +44,8 @@ blockquote p {
 }
 
 .copyright {
+  margin-top: $body-margin;
+
   a {
     text-decoration: none;
   }
