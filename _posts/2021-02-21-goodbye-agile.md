@@ -76,4 +76,4 @@ Upon reflecting on where we're at, I'm now realizing we're still not pairing and
 
 ## Parting Thought
 
-Despite the title of this post, it's important to note that Kanban, itself, isn't the source of our agility. The fact that we were able to quickly eschew a process that wasn't working great for us and try something new is a testament to the people and culture of Drip. We hire folks who are smart, ambitious, growth-oriented, and humble. The result is a bold but empathetic culture where no cow is held sacred and where not failing means you aren't stretching yourself enough.
+Despite the title of this post, it's important to note that Kanban, itself, isn't the source of our agility. The fact that we were able to quickly eschew a process that wasn't working great for us and try something new is a testament to the people and culture of Drip. We hire folks who are smart, ambitious, growth-oriented, and humble. The result is a bold but empathetic culture where no cow is held sacred and where never failing means you aren't stretching yourself enough.
