@@ -8,7 +8,7 @@ redirect_from:
   - /goodbye-agile-hello-agility
 ---
 
-Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be pedantic, it was closer to elements of [XP](http://www.agile-process.org/) repackaged with more-familiar Scrum terminology. Our (only) ceremonies were daily Standups (dev + product + design) and weekly Sprints and Demos, as well as monthly Retros. We didn't carry a Backlog or do Story Points, which eliminated much of the activities prescribed by Scrum.
+Leading into early 2020 we were doing what we called Scrum-Lite. Although, to be pedantic, it was closer to elements of [XP](http://www.agile-process.org/) repackaged with more-familiar Scrum terminology. Our (only) ceremonies were daily standups (with dev + product + design), and weekly iterations and demos. We didn't carry a backlog, which eliminated much of the activities prescribed by Scrum.
 
 Things were going alright, but at Drip we value [kaizen](https://en.wikipedia.org/wiki/Kaizen) &mdash; continuous improvement. Valuing [lean practices](https://en.wikipedia.org/wiki/Lean_software_development) and agility over dogmatic adherence to any particular Agile implementation, we had an opportunity to address a specific issue we were facing &mdash; that of stalled projects &mdash; by changing our process.
 
