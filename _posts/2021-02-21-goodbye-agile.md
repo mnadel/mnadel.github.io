@@ -18,9 +18,9 @@ What follows is an internal document I shared with the team back in March of 202
 
 I am encouraged by our velocity! Looking past the horizon, however, I don't think we've solved the fundamental problem that I've heard expressed by the team in various ways, including in our most recent retrospective: projects, at some point, have a tendency to feel like they're stalling.
 
-Additionally, I know that we had some success with mobbing. It was invigorating, engaging, and helps minimize knowledge silos. Everyone seemed energized by the proposal that as our tasks wind down, we ramp up mobbing. It has, however, largely dropped by the wayside. The only thing preventing us from mobbing more is overcoming inertia.
+Additionally, I know that we had some success with mobbing. It was invigorating and engaging, and, importantly, it helps minimize knowledge silos. Everyone seemed energized by the proposal that as our tasks wind down, we ramp up mobbing. However, mobbing has largely dropped by the wayside. I believe that overcoming inertia is the only thing preventing us from mobbing more.
 
-One of our company's strategic priorities is "Unleash our people." And I would not be doing my job if I weren't thinking about how to help you all be your best (professional) selves. Long story short, based on conversations I've had with [my peer] [Stephanie](https://www.linkedin.com/in/stephanie-simons-she-her-92444ab2/), who has a bunch of experience in using Kanban with her teams, I see it as a potential pathway to addressing these two issues.
+One of our company's strategic priorities is "Unleash our people." And I would not be doing my job if I weren't constantly thinking about how to help you all be your best (professional) selves. Long story short, based on conversations I've had with [my peer] [Stephanie](https://www.linkedin.com/in/stephanie-simons-she-her-92444ab2/), who has a bunch of experience in using Kanban with her teams, I see it as a potential pathway to addressing these two issues.
 
 To give you some background, Kanban is not a software development process. In fact, as you may know, it originated in manufacturing, and rose to prevalence at Toyota on their production line under the direction of Taiichi Ohno in the 60s. It was brought to the broader business management community in the mid-80s by way of Eliyahu Goldratt's book, [The Goal](https://www.tocinstitute.org/the-goal-summary.html). In his book, Goldratt develops the Theory of Constraints, which is derived from mathematical queueing theory and is one of the foundations of Kanban. It wasn't until 2010 that David Anderson documented his experience applying Kanban to software in his book [Kanban: Successful Evolutionary Change for Your Technology Business](https://shop.leankanban.com/products/kanban-successful-evolutionary-change-for-your-technology-business).
 
@@ -31,7 +31,7 @@ Kanban, itself, is a meta-process designed to help teams implement continuous im
 
 These two rules form the basis of implementing a Kanban system: a pull-based flow system, which, in turn, allows teams to continually optimize how work flows through the system.
 
-Making the work visible will help address the first issue of projects feeling like they're stalling. In the absence of a (Jira) ticket, or one that is in flight for weeks, it's hard to visualize progress or detect when we've uncovered hidden complexity. If we are continually visualizing the work and seeing it flow through the system, I hypothesize it'll help alleviate the feeling that projects feel stalled. And, moreover, if we do detect that tasks are stalled because of incidental complexity, it'll be readily visible and something we can proactively address, therein contributing to forward progression and momentum. It's a virtuous cycle!
+Making the work visible, I believe, will help address the first issue of projects feeling like they're stalling. In the absence of a (Jira) ticket, or one that is in flight for weeks, it's hard to visualize progress or detect when we've uncovered hidden complexity. If we are continually visualizing the work and seeing it flow through the system, I hypothesize it'll help alleviate the feeling that projects feel stalled. And, moreover, if we do detect that tasks are legitimately stalled because of incidental complexity, it'll be readily visible and something we can proactively address, therein contributing to forward progression and momentum. It's a virtuous cycle!
 
 Kanban is more than just an improved visualization system, though. Kanban isn't Kanban without WIP limits. WIP limits mean we will intentionally limit starting new tasks until (enough) current tasks are completed. This swings the pendulum from optimizing for utilization (where everyone has "something to do" and isn't sitting idle or looking for work) to a focus on completing work. This clearly addresses the stalled-project problem we're trying to solve by focusing efforts on completing work, thereby contributing to forward progress and momentum. Another virtuous cycle!
 
@@ -39,9 +39,9 @@ WIP limits have the added benefit of codifying a social contract around when we 
 
 ## Our Own Flavor of Kanban
 
-What this means for us is that we need to better visualize our work and institute WIP limits. Better visualization will take the form of additional columns in Jira. To start with, I'm proposing the following: IDEA &rarr; SPECIFY &rarr; TODO &rarr; DEV &rarr; VERIFY &rarr; DONE. These states will get us started with something useful, and I fully expect (indeed: insist) to tweak and adjust as we learn more. To see what this looks like, check out [this test] project in Jira. I'll be migrating us to this Classic project, as it has some important features that are missing in Next-Gen projects (namely, indication of how long a task is in a column).
+What this means for us is that we need to better visualize our work and institute WIP limits. Better visualization will take the form of additional columns in Jira. To start with, I'm proposing the following: IDEA &rarr; SPECIFY &rarr; TODO &rarr; DEV &rarr; VERIFY &rarr; DONE. These states are meant to get us started with something useful, and I fully expect (indeed: insist) to tweak and adjust as we learn more. To see what this looks like, check out [this test] project in Jira. I'll be migrating us to this Classic project, as it has some important features that are missing in Next-Gen projects (namely, indication of how long a task is in a column).
 
-The IDEA will contain items that are SWAGged, i.e. they'll contain just enough information that we were able to come up with a SWAG. This helps us have ROI conversations that inform the priority of these items.
+The IDEA will contain items that are [SWAGged](https://en.wikipedia.org/wiki/Scientific_wild-ass_guess), i.e. they'll contain just enough information that we were able to come up with a SWAG. This helps us have ROI conversations that inform the priority of these items.
 
 From IDEA, items move into SPECIFY. These are essentially on-deck items. This is where (and when) on-demand planning happens. When a SPECIFY item is picked up, the owner's responsibility is to break it down into small tickets (ideally no more than one day of effort, 2-3 days max) in the TODO column. The result is a more detailed plan. But the TODO column does have a WIP limit. If a SPECIFY task's decomposition is too big to fit into the TODO column, then break the SPECIFY task apart in-place in order to adhere to our limits by specifying smaller chunks of better-understood work.
 
@@ -60,11 +60,6 @@ Now, for the hard part. For this to work, there's a few things that we need to b
 
 Initially we'll take a MITA (Mike Is The Asshole) approach to ensuring the above happens. Please feel free to blame me for any discomfort or awkwardness. e.g. "Sorry, Mike is an asshole and is making me pair with you" or "Ugh I wish I could start that task, but Mike is being an asshole" and also "Mike's an asshole and we need to break this down before we continue working on it." But believe it or not, I do find it exhausting to be an asshole. So, eventually I'd like everyone to take part in ensuring we're being disciplined in how we implement Kanban.
 
-## References
-
-1. [Agile Project Management With Kanban](https://www.microsoftpressstore.com/store/agile-project-management-with-kanban-9780735698956); a 250-page textbook, by Brechner
-2. [Essential Kanban Condensed](https://resources.kanban.university/guide/); a 90-page distillation of Anderson's book, by Anderson
-
 # Reflection
 
 Kanban is currently working quite well for us. A couple of folks have recently, and independently, mentioned that they feel engaged and that the team is super productive. And indeed, we're shipping consequential changes every one to two weeks. Projects haven't felt stalled in quite some time. I believe this is largely due to two things:
@@ -77,3 +72,9 @@ Upon reflecting on where we're at, I'm now realizing we're still not pairing and
 ## Parting Thought
 
 Despite the title of this post, it's important to note that Kanban, itself, isn't the source of our agility. The fact that we were able to quickly eschew a process that wasn't working great for us and try something new is a testament to the people and culture of Drip. We hire folks who are smart, ambitious, growth-oriented, and humble. The result is a bold but empathetic culture where no cow is held sacred and where never failing means you aren't stretching yourself enough.
+
+# References
+
+1. [Agile Project Management With Kanban](https://www.microsoftpressstore.com/store/agile-project-management-with-kanban-9780735698956); a 250-page textbook, by Brechner
+2. [Essential Kanban Condensed](https://resources.kanban.university/guide/); a 90-page distillation of Anderson's book, by Anderson
+
