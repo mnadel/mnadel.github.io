@@ -54,7 +54,7 @@ Even if you’re not using cream or sugar, can still adjust the flavor of your c
 
 If you’re not loving your cup, use the compass below to tweak it. I find that I generally need to adjust my grind with every new bag of coffee (and can sometimes take a couple of iterations to get it dialed-in).
 
-![BaristaHustle.com's Coffee Compass](/assets/coffee-compass.png){: width="815"}
+![BaristaHustle.com's Coffee Compass](/img/coffee-compass.png){: width="815"}
 
 ## A Word on Espresso
 
