@@ -1,6 +1,6 @@
 ---
 title: Forest vs. Desert; Peacetime vs. Wartime
-description: Kent Beck's Forest & Desert strikes me as the software engineering version of the Peacetime/Wartime CEO dichotomy.
+subtitle: Kent Beck's Forest & Desert strikes me as the software engineering version of the Peacetime/Wartime CEO dichotomy.
 date: 2024-12-04
 layout: post
 permalink: /post/forest-desert-peacetime-wartime

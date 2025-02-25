@@ -1,6 +1,6 @@
 ---
 title: Goodbye Agile, Hello Agility
-description: A story about why (and a little bit of how) we adopted Kanban.
+subtitle: A story about why (and a little bit of how) we adopted Kanban.
 date: 2021-02-21
 layout: post
 permalink: /post/goodbye-agile-hello-agility

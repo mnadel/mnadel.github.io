@@ -1,6 +1,6 @@
 ---
 title: Hold the Cream and Sugar
-description: I'm also a nerd about coffee &mdash; let's up your game!
+subtitle: I'm also a nerd about coffee &mdash; let's up your game!
 date: 2025-01-12
 layout: post
 permalink: /post/hold-the-cream-and-sugar

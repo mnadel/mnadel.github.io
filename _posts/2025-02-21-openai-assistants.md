@@ -1,6 +1,6 @@
 ---
 title: Understanding Function Calls in the OpenAI Assistants API
-description: What I've learned about function/tool calls in the OpenAI Assistants API
+subtitle: What I've learned about function/tool calls in the OpenAI Assistants API
 date: 2025-02-21
 layout: post
 permalink: /post/openai-assistant-function-calls

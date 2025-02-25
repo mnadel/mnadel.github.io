@@ -1,6 +1,6 @@
 ---
 title: You Shall Know Our Velocity
-description: Three thousand deploys a year isn't just a vanity metric.
+subtitle: Three thousand deploys a year isn't just a vanity metric.
 date: 2021-05-07
 layout: post
 permalink: /post/you-shall-know-our-velocity

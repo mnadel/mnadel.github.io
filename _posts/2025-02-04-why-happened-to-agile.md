@@ -1,6 +1,6 @@
 ---
 title: <strike>What</strike> Why Happened to Agile?
-description: We know <i>what</i> happened to agile. The question is <i>why</i>.
+subtitle: We know <i>what</i> happened to agile. The question is <i>why</i>.
 date: 2025-02-04
 layout: post
 permalink: /post/why-happened-to-agile

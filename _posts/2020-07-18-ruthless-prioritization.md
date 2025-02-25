@@ -1,6 +1,6 @@
 ---
 title: Ruthless Prioritization
-description: A story about hiring good people and getting out of their way.
+subtitle: A story about hiring good people and getting out of their way.
 date: 2020-07-18
 layout: post
 permalink: /post/ruthless-prioritization

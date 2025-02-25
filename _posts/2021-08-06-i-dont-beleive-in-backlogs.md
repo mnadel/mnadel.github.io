@@ -1,6 +1,6 @@
 ---
 title: I Don't Believe in Backlogs
-description: A haiku.
+subtitle: A haiku.
 date: 2021-08-06
 layout: post
 permalink: /post/i-dont-believe-in-backlogs
