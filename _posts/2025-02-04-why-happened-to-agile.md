@@ -1,5 +1,6 @@
 ---
-title: <strike>What</strike> Why Happened to Agile?
+title: <s>What</s> Why Happened to Agile?
+alt_title: Why Happened to Agile?
 subtitle: We know <i>what</i> happened to agile. The question is <i>why</i>.
 date: 2025-02-04
 layout: post
