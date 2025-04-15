@@ -12,7 +12,8 @@ linkedin_username: nadel
 google_analytics: UA-172988644-1
 permalink: /:slug.html
 
-favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+favicon: "logo.ico" # name+extension of favicon (which must be put on the root folder)
+logo: "logo.png" # name+extension of favicon (which must be put on the root folder)
 
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
@@ -22,6 +23,7 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
   lowercase_titles: false # show titles in lowercase in lists
+  show_title: false # show title in homepage
 
 sass:
   style: compressed
