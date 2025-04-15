@@ -3,9 +3,9 @@ layout: default
 ---
 <header>
   {%-if site.logo and site.theme_config.show_title-%}
-    <h1><img width="256" height="256" src="{{ site.logo }}"/>{{ site.title }}</h1>
+    <h1><img src="{{ site.logo }}"/>{{ site.title }}</h1>
   {%-elsif site.logo-%}
-    <h1><img width="256" height="256" src="{{ site.logo }}"/></h1>
+    <h1><img src="{{ site.logo }}"/></h1>
   {%-else-%}
     <h1>{{ site.title }}</h1>
   {%-endif-%}
