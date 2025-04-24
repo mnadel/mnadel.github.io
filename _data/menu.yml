@@ -4,7 +4,8 @@
 entries:
   - title: info
     entries:
-      - title: © michael nadel &lt;mike &commat; discodev · xyz&gt;
+      - title: © michael nadel
+      - title: mike &commat; discodev · xyz
       - title: linkedin
         url: https://www.linkedin.com/in/nadel/
       - title: github
