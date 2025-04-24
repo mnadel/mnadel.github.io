@@ -26,7 +26,7 @@ Alternatively, get yourself a thermometer, a kettle, a scale, and any of these f
 
 1. Heat your water to 195 to 205°F (90.5 - 96.1°C), or to just before boiling if not using a thermometer.
 2. Weigh your beans (and water)! Start with brewing a 15:1 water-to-coffee ratio using any of the brewers listed above for about 4 mins. For a single cup I use 18-20g of beans.
-3. See  [Diagnose your cup with the coffee compass](https://www.notion.so/Diagnose-your-cup-with-the-coffee-compass-178b2a668e9380edb0fbc62e0589fffc?pvs=21)  below for how to zero-in on the exact ratio and timing.
+3. See  [Diagnose your cup with the coffee compass](#dx) below for how to zero-in on the exact ratio and timing.
 
 ## Use a burr grinder
 
@@ -48,6 +48,7 @@ Are you now thinking “Okay, fine — not *dark.* But why left of medium?” If
 
 Check out [any of these](https://pinboard.in/u:man/t:beans/) roasting companies if you’re interested in trying a premium bean. Again — this is totally unnecessary. If you’re enjoying whatever you’re currently drinking, then by definition what you’re doing is perfect.
 
+<a id="dx"/>
 ## Diagnose your cup with the coffee compass
 
 Even if you’re not using cream or sugar, can still adjust the flavor of your coffee!
