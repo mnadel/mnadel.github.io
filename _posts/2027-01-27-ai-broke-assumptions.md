@@ -12,7 +12,7 @@ But what happens when AI-assisted coding decouples the velocity of change from h
 
 Our 10-person team using Claude and Cursor is pushing changes at the rate of a team 3-4x our size. And we're starting to see the problems that come with that scale: merge conflicts in hot files, PRs that sprawl across traditional boundaries, reviewers who can't keep pace with the velocity of change, architecture evolving faster than we can track by traditional methods.
 
-A 30-person team pushing 30-person-levels of change creates linear pressure — coordination mechanisms are sized to match the velocity of change. The problem isn't absolute throughput. It's the ratio of output to coordination capacity.
+A 30-person team pushing 30-person levels of change creates linear pressure — coordination mechanisms are sized to match the velocity of change. The problem isn't absolute throughput. It's the ratio of output to coordination capacity.
 
 AI scales the numerator while holding the denominator constant.
 
